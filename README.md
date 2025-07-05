@@ -48,12 +48,4 @@ The application was built using **Python** to handle API data collection, data p
 
 <img width="943"  src="https://github.com/user-attachments/assets/51a06d82-ad97-4e08-83bb-9e56f2868ccc" />
 <img width="943"  src="https://github.com/user-attachments/assets/1cfa2116-b3c7-492b-97ee-bacab18ccdac" />
-
-
-
-
-
-
-
-
 ---
