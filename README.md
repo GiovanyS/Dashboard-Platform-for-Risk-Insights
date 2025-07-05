@@ -42,10 +42,8 @@ The application was built using **Python** to handle API data collection, data p
 
 <img width="943"  src="https://github.com/user-attachments/assets/4988964b-3033-403a-86ec-a811d13ec679" /> 
 <img width="943"  src="https://github.com/user-attachments/assets/800f4f7b-016d-4e9c-98f4-854a1f1ca1c0" /> 
-
 <img width="943"  src="https://github.com/user-attachments/assets/bb80f134-c665-43e3-b914-10d14fc09be8" />
 <img width="943"  src="https://github.com/user-attachments/assets/0d077785-4151-48be-88f6-718e98fca043" />
-
 <img width="943"  src="https://github.com/user-attachments/assets/51a06d82-ad97-4e08-83bb-9e56f2868ccc" />
 <img width="943"  src="https://github.com/user-attachments/assets/1cfa2116-b3c7-492b-97ee-bacab18ccdac" />
 
